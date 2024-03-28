@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Fargath15/package/issues"
   },
-  "homepage": "https://github.com/Fargath15/package#readme"
+  "homepage": "https://github.com/Fargath15/package#readme",
+  "publishConfig": {
+    "@Fargath15:registry": "https://npm.pkg.github.com"
+  }
 }
